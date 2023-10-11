@@ -2,7 +2,6 @@ package com.example.restservice.controllers;
 
 import com.example.restservice.model.Greeting;
 import com.example.restservice.model.Response;
-import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.web.bind.annotation.*;
 
